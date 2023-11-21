@@ -1,0 +1,105 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WD User Groupware
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : WD User Groupware
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : WD User Groupware
+    internal_properties : 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
+    configuration_id : 17580968223568132258
+    type : 1
+    generation_name : WD User Groupware.exe
+    version :
+     version : VI200066P
+     autoincrement_version : false
+    icon_filename : .\CREDIT.ICO
+    language : 2
+ elements :
+  identifier : 0x4acc5692000fa9b7
+  elements :
+   -
+     name : WIN_ACCOUNT
+     identifier : 0x3dd8c95445bb3528
+     internal_properties : CAAAAAgAAACsqoSQL1Tcj1an7Q9RVgvl5PHzW548AxSOosAhJxWHAc8Tt0vaZqmkIx+ZZy+hWU+5uQ==
+     physical_name : .\WIN_ACCOUNT.wdw
+     type : 2
+   -
+     name : WinDevMessageBox
+     identifier : 0x40a3769300142d9e
+     internal_properties : CAAAAAgAAAB716PnxIGpsovsxmB6YH7Ak9AutvkIVIVWjThG3QMTHZcJn2OxT5CN2ES+Ovr2gnZe5g==
+     physical_name : .\WinDevMessageBox.WDW
+     type : 2
+   -
+     name : WIN_WARNING
+     identifier : 0x3dd8c9513da234ca
+     internal_properties : CAAAAAgAAACzj+s/DHkxakPUnlgCWSZ4Vxbudmtg+Or4rrgZTMDSXlZOVjzpF1jVEAz2wkK+ui6Wng==
+     physical_name : .\WIN_WARNING.wdw
+     type : 2
+   -
+     name : WinDevDialogBox
+     identifier : 0x40a376940016323f
+     internal_properties : CAAAAAgAAAD2XN7C4V7W2fwBe7nTw51rGk1JOQ4tKm12Cfd/Au6mug6MPsRQ6DcyvXljXSXbpxnjYw==
+     physical_name : .\WinDevDialogBox.WDW
+     type : 2
+  other_elements :
+   -
+     physical_name : .\Description.rtf
+   -
+     physical_name : .\Description.gif
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ report_and_queries_enabled : false
+ common_generation_directory : true
+ user_groupware_executable :
+  internal_properties : CAAAAAgAAABRo7VAeMJSHSNaRVhOXh8YQNYYkoj3iJ0YxnxosOfXDsg/KJcledi62kTJ367t3wM13bGA8y7L7Jqsfpp2ChNXK9SpXe17GDKFESYXVZ/CYAQA
+  mode : 1
+ languages :
+  - en-GB
+ code_elements :
+  internal_properties : CAAAAAgAAAAySygPcZ4GJX0P6OaZtGImf6VeIpQpJLYsyy6IpEyeB4oR6+2AWanMnxYyL8kUO6ZLoCf7gRyLXo4A3BCx9g==
+  type_code : 0
+  p_codes :
+   -
+     internal_properties : CAAAAAgAAACSXU44oXb9SEcmyw5+QwxrbyBF+UjRpOYNM29bIUM+i9P48K3hoWenUlJT0UG+H2hTYBvjpyvXTjXCMHtdJkWpUp2A7VgMxdpjA3BW88Zji2iHOnPDE4/Vfe9NfGJVAGcESwm9dU+4QYJrgw==
+     code : |1+
+      // By default, in this example, the supervisor is identified by the login: 
+      // SUPERVISOR (password: supervisor)
+     type : 196608
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : WD User Groupware
+     identifier : 0x4acc56920014aa63
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+ children :
+  -
+    name : Windows Store Apps API
+    explorer_type : custom_folder
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
